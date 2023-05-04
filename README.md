@@ -1,5 +1,5 @@
 ---
-permalink: /public/index.html
+permalink: /index.html
 ---
 
 # Building a Real-time Chat App with ReactJs and Firebase. :writing_hand:
