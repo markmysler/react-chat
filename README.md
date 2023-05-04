@@ -11,13 +11,13 @@ React, JavaScript, firebase.
 Clona el repositorio
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/markmysler/react-chat
 ```
 
 Navega al directorio del proyecto en la consola
 
 ```bash
-  cd my-project
+  cd react-chat
 ```
 
 Instala las dependencias
