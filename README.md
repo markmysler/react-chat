@@ -1,15 +1,37 @@
----
-permalink: /index.html
----
+# React-Chat
 
-# Building a Real-time Chat App with ReactJs and Firebase. :writing_hand:
+Una sala de chat con mensajes en tiempo real y autenticacion con google, desarrollada con React y firebase en base a un curso de FreeCodeCamp
 
-This is the code example for my article on [Building a Real-time Chat App with ReactJs and Firebase](https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/) for [FreeCodeCamp](https://freecodecamp.org/). Here is the [live demo](https://react-chat-timonwa.vercel.app/).
+## 🛠 Tools
 
-## Summary
+React, JavaScript, firebase.
 
-### Breakdown:
+## Proba el proyecto
 
-Please give this repo a ⭐ if it was helpful to you.
+Clona el repositorio
+
+```bash
+  git clone https://link-to-project
+```
+
+Navega al directorio del proyecto en la consola
+
+```bash
+  cd my-project
+```
+
+Instala las dependencias
+
+```bash
+  npm install
+```
+
+Inicia el server
+
+```bash
+  npm run start
+```
+
+Eso es todo!
 
 ![A screencast demo of the react chat app. I log in in with my Google account, the chat room shows up, then I log out](https://user-images.githubusercontent.com/63044364/211147631-d8b8a732-1572-4801-ba01-99a271b77bc4.gif)
